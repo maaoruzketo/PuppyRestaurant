@@ -1,0 +1,186 @@
+body{
+    background-image: url("../images/bgtexture.jpg");
+}
+
+#cateringHero{
+    background-image: url("../images/cateringHero.jpg");
+    height: 50vh;
+    width: 100%;
+    background-size: cover;
+    background-position: fill;
+}
+
+#cateringMaine{
+    background-image: url("../images/cateringMaine.jpg");
+    height: auto;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+#catering1{
+    background-image: url("../images/catering1.jpg");
+    height: 297px;
+    width: 100%;
+    background-size: center;
+    background-position: fill;
+}
+
+#catering2{
+    background-image: url("../images/catering2.jpg");
+    height: 297px;
+    width: 100%;
+    background-size: center;
+    background-position: fill;
+}
+
+#catering3{
+    background-image: url("../images/catering3.jpg");
+    height: 297px;
+    width: 100%;
+    background-size: center;
+    background-position: center;
+}
+
+#companylogo{
+    background-image: url("../images/CompanyLogo.png");
+    height: 10px;
+    width: 10px;
+    background-size: cover;
+    background-position: center;
+}
+
+.menu{
+    color: #5F002B;
+    text-align: center;
+    background: #ffffff;
+}
+hr{
+    background-color: #5F002B;
+}
+.food{
+    color: #5F002B;
+}
+.header{
+    color: #5F002B;
+}
+.card{
+    height: 100%;
+}
+/* .card{
+    width: 70%;
+} */
+
+.fugaz{
+    font-family: 'Fugaz One', cursive;
+    font-size: 20px;
+    color: #5F002B;
+}
+.fugazMenu{
+    font-family: 'Fugaz One', cursive;
+    font-size: 50px;
+    color: #5F002B;
+}
+
+.fugazMenu0{
+    font-family: 'Fugaz One', cursive;
+    font-size: 35px;
+    color: #5F002B;
+}
+
+.montauk0{
+    font-family: 'Montauk';
+    font-size: 13px;
+    color: #5F002B;
+}
+
+.montauk{
+    font-family: 'Montauk';
+    font-size: 20px;
+    color: #5F002B;
+}
+
+.montaukHeader{
+    font-family: 'Montauk';
+    font-size: 25px;
+    color: #5F002B;
+}
+
+.navBarMenu{
+    font-family: 'Fugaz One', cursive;
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-end;
+}
+.fugazLink{
+    color: #5F002B;
+}
+@font-face {
+    font-family: Montauk;
+    src: url("../Montauk-Regular/Montauk-Regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Montauk;
+    font-weight: bold;
+    src: url("../Montauk-Regular/Montauk-Regular.otf") format("opentype");
+}
+
+.background{
+    background-image: url(./RestaurantMockupFiles/assets/bgtexture.jpg);
+}
+
+.titlepad{
+    padding-top: 3%;
+}
+
+.navcontrol{
+    font-family: 'Fugaz One', cursive;
+    color: #5F002B;
+    font-size: 22px;
+}
+
+.pictop{
+    padding-top: 15%;
+    height: 100%;
+    width: 100%;
+}
+
+.nopad{
+    padding: 0;
+}
+
+.storybox{
+    background-color: white;
+    color: #5F002B;
+    font-family: 'Fugaz One', cursive;
+}
+.storyhead{
+    font-size: 40px;
+    font-family: 'Fugaz One', cursive;
+}
+.storytext{
+    font-size: 15px;
+    font-family: Montauk-Regular;
+}
+
+@font-face {
+    font-family: Montauk-Regular;
+    src: url('./Montauk-Regular\ \(1\)/Montauk-Regular') format("opentype");
+}
+
+.teamtext{
+    justify-content: center;
+    align-items: center;
+}
+
+.teamheader{
+    font-family: 'Fugaz One', cursive;
+    color: #5F002B;
+}
+
+.teamfont{
+    font-family: Montauk-Regular;
+    font-size: 14px;
+    color: #5F002B;
+}
